@@ -1,0 +1,96 @@
+@charset "UTF-8";
+body{
+  margin-top: 25px;
+  display: flex;
+  /* This centers our sketch horizontally. */
+  justify-content: center;
+  /* This centers our sketch vertically. */
+  align-items: center;	
+}
+#homescreen {
+	margin-bottom:50;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+		font-weight:500;
+    background-color: ADA6FF;
+    border: none;
+    color: black;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+#script{
+	margin-top:50px;
+}
+@charset "UTF-8";
+/* CSS Document */
+
+#header{
+	margin-top:50px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight:500;
+}
+#scores{
+	margin-top:10px;
+}
+
+#gameCanvas{
+		margin-top:5px;
+
+	}
+#rules {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+		font-weight:500;
+    background-color: #ADA6FF;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+#homescreen {
+	margin-top:10px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+		font-weight:500;
+    background-color: #ADA6FF;
+    border: none;
+    color: black;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+#play {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+		font-weight:500;
+    background-color: #ADA6FF;
+    border: none;
+    color: black;
+    padding: 15px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+#text{
+	max-width:600px;
+	line-height:50px;
+	font-size:24px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight:500; 
+	
+}
+.link{
+	text-decoration:none;
+}
+	
