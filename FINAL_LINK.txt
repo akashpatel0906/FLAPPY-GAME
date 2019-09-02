@@ -2,4 +2,4 @@
 
 FINAL LINK TO PROJECT:
 
-https://flappygameakash.000webhostapp.com/game.html
+https://flappygameakash.000webhostapp.com/index.html
